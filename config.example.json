@@ -1,4 +1,10 @@
 {
   "mbox_path": "/path/to/Unread.mbox",
+  "mbox_path2": "/path/to/Sent.mbox",
+  "mbox_cache_path2": "/path/to/Sent.pkl",
+  "mbox_cache_headers_path2": "/path/to/Sent_headers.pkl",
+  "mbox_cache_address_book2": "/path/to/address_book.pkl",
+  "mbox_cache_counter_path2": "/path/to/counters.pkl",
+  "excel_path2": "/path/to/address_book_with_counts.xlsx",
   "my_addresses": ["your@email.com", "another@email.com"]
 }
